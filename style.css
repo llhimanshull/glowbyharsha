@@ -20,7 +20,7 @@ footer,
 section,
 article {
     margin: 0;
-    padding: 0;
+    padding: 1;
 }
 
 /* sensible default font-size for easy rem math */
